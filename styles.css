@@ -14,8 +14,9 @@ img {
     margin: 0 auto;
 }
 
-nav ul {
-    padding: 0;
+ul {
+    text-align: left;
+    padding-left: 20px;
 }
 
 nav ul li {
